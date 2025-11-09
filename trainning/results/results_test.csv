@@ -1,0 +1,9 @@
+Model,Mean_absolute_error,Mean_squared_error,Root_Mean_Squared_error,R2_score
+
+base_model(mean),36.23,2428.07,49.28,0.00
+Linear Regression,12.65,624.17,24.98,0.81
+DecisionTreeRegressor,15.70,1948.59,44.14,0.39
+Random Forest Regressor,5.13,1153.17,33.96,0.64
+Gradient Bosting,3.45,330.03,18.17,0.90
+Ensembled_stacked_model,3.45,68.56, 8.28,0.98
+Ensembled_stacked_model,3.45,68.56, 8.28,0.98
